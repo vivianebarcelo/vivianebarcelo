@@ -10,4 +10,8 @@
 | <a href="https://github.com/vivianebarcelo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vivianebarcelo&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="Vivianebarcelo's github stats" /></a> | <a href="https://github.com/vivianebarcelo/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vivianebarcelo&layout=compact&theme=radical&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-![Snake animation](https://github.com/vivianebarcelo/vivianebarcelo/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/YourUser/YourUser/output/github-contribution-grid-snake.svg">
+</picture>
