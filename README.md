@@ -1,7 +1,7 @@
 ### Olá, espero que esteja bem. Fico feliz em lhe receber aqui! 👋
 
 - Sou a Viviane, Tenho 27 anos e sou mãe. Sou muito curiosa e estou em transição de carreira, atualmente estou cursando Análise e Desenvolvimento de Sistemas, buscando uma oportunidade no mercado da tecnologia para poder aprender mais e ter novas experiências.
-- Atualmente estou focada em aprender desenvolvimento utilizando Kotlin e .NET.
+- Atualmente estou focada em aprender desenvolvimento utilizando HTML e CSS.
 
 <div> 
   <a href="https://www.linkedin.com/in/viviane-b-544781174/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
